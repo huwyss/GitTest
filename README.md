@@ -6,3 +6,5 @@ local change 3
 remote change 2
 
 - local fix 1 on master
+- local feature 123
+- local feature 123 b
