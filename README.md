@@ -11,3 +11,5 @@ remote change 2
 
 - local feature super
 - remote fix xxx
+
+- local super feature 2
