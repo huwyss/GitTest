@@ -1,2 +1,3 @@
 # GitTest
 
+local super feature
