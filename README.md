@@ -9,3 +9,4 @@
 - remote master change 3
 - feature x change
 - feature x change 2
+- feature x change 3
