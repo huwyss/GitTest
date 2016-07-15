@@ -1,18 +1,2 @@
 # GitTest
 
-- feature x change
-- remote master change
-- remote master change 2
-
-- remote master change
-- local master change
-
-- local master change 2
-- remote master change 2
-
-- remote master change 3
-- local master change 3
-
-- remote change 4
-- remote change 5
-- 
